@@ -1,5 +1,7 @@
 # Simple-form-with-buttons
-This is a simple form where you can type your name and you can reverse, sort etc. using different buttons, button description is also added in the form so that user cna use it easily
+This is a simple form where you can type your name and you can reverse, sort etc. using different buttons, button description is also added in the form so that user cna use it easily.
+
+
 Instructions:
 --- You can open this index.php file using XAMPP version 3.2.4 
 --- 1st you have to install XAMPP version 3.2.4
